@@ -1,0 +1,37 @@
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+}
+a {
+	font-family: Arial, Helvetica, sans-serif;
+}
+a:link {
+	color: #09F;
+}
+a:visited {
+	color: #00C;
+}
+a:hover {
+	color: #000;
+}
+#pageHeader {
+	color:#F00;
+	border:#999 1px solid;
+	border-bottom:none;
+	background-color:#f4f4f4;
+	width:900 px;
+	
+}
+#pageHeader {
+	color:#0F0;
+	border:#999 1px solid;
+	border-bottom:none;
+	background-color:#f4f4f4;
+	width:900 px;
+}
+#pageFooter {
+	color:#F0F;
+	border:#999 1px solid;
+	border-bottom:none;
+	background-color:#f4f4f4;
+	width:900 px;
+}
